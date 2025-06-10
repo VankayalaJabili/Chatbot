@@ -3,26 +3,21 @@ body {
   background: #f0f0f0;
   margin: 0;
   padding: 0;
-
-  /* *New: center content horizontally & vertically* */
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* full viewport height */
+  height: 100vh; 
 }
 
 .app {
   max-width: 500px;
   width: 100%;
-  margin: 0; /* reset, Flexbox handles centering */
+  margin: 0;
   padding: 20px;
   background: white;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
-
-/* rest of CSS remains unchanged... */
-
 
 .title {
   text-align: center;
