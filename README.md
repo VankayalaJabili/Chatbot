@@ -27,7 +27,7 @@ This is a **static chatbot interface** designed using **HTML, CSS, and JavaScrip
    Just open the index.html file in any modern browser:<br>
    start index.html<br>
 
-✅ Use Cases
+## ✅ Use Cases
 -Frontend UI demo for chatbots
 -Starting template for chatbot integrations
 -UI/UX practice project
