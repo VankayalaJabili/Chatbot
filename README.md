@@ -1,12 +1,44 @@
-# React + Vite
+# 💬 Static Chatbot UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Project Overview
 
-Currently, two official plugins are available:
+This is a **static chatbot interface** designed using **HTML, CSS, and JavaScript**. It provides a clean, responsive layout that mimics a real chatbot experience on the frontend. Ideal for showcasing UI design or as a base for integrating backend chatbot APIs or logic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🖥️ Clean and minimal chatbot design  
+- 💬 Message display area with user and bot styles  
+- 🧠 Placeholder for chatbot logic integration  
+- 📱 Responsive layout for mobile and desktop  
+- 🎨 Custom CSS for styling and animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+## 🧑‍💻 Setup Instructions
+
+1. **Clone the Repository**<br>
+   git clone https://github.com/your-username/static-chatbot.git<br>
+   cd static-chatbot<br>
+2. **Run the App**<br>
+   Just open the index.html file in any modern browser:<br>
+   start index.html<br>
+
+✅ Use Cases
+-Frontend UI demo for chatbots
+-Starting template for chatbot integrations
+-UI/UX practice project
+
+## 📁 Project Structure
+```
+chatbot-ui/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css
+│   └── index.css
+└── README.md
+```
